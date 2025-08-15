@@ -1,0 +1,15 @@
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/bin/Debug/net7.0/Task2
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/bin/Debug/net7.0/Task2.dll
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.dll
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/calebtetteh/Downloads/DCIT 318/dcit318-assignment3-11117313/Task2/obj/Debug/net7.0/ref/Task2.dll
